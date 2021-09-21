@@ -10,7 +10,7 @@
 #define serialDebug Serial
 
 //add a definition for your ProductUID using the value you specified when creating your Notehub project.
-#define productUID "com.factana.ajaykumar.kanojiya:notecardtest"
+#define productUID "enter your NoteHub product UID"
 
 //data interval(mS)
 #define TIME_FREQ 60000
